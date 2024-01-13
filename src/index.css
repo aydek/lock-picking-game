@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: rgb(23, 23, 23);
+}
+
+kbd {
+    background: #f6f6f6;
+    padding: 0 4px;
+    color: black;
+    border-radius: 2px;
+    line-height: 0px;
+}
